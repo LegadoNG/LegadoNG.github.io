@@ -1,0 +1,5 @@
+informacion confidencial
+credenciales
+API keys
+paquetes
+archivos del sistema
